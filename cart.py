@@ -15,3 +15,5 @@ while(1):
             if spl[1] in p:
                 count = count + 1
         print(count)
+        else:
+     print("wrong input provided.Please provide following option 1.add 2.list 3.Find ")
